@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@mdi/js": "^7.4.47",
+    "admin-one-vue-tailwind": "file:",
     "axios": "^1.8.1",
     "chart.js": "^4.4.0",
     "numeral": "^2.0.6",
